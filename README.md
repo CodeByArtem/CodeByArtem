@@ -21,7 +21,8 @@
 
 ⚡️ Fun fact: [Я люблю экспериментировать с новыми технологиями и всегда открыт для изучения чего-то нового в мире программирования.].
 
-GitHub статистика:
+### GitHub статистика:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemGoiT&show_icons=true&theme=tokyonight)
 
 
