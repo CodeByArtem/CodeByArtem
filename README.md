@@ -2,7 +2,7 @@
 ![Jk1](https://github.com/ArtemGoiT/ArtemGoiT/assets/150847319/37309e08-9d5e-4483-9534-5907a123f7ef)
 
 
-### Привет, я [Артём Журавлёв] 👋
+### Привет, меня зовут Артём Журавлёв 👋 мне 34.
 ### <span style="color:#61DAFB;">Frontend Developer</span> <span style="color:#61DAFB;">Full Stack</span>
 
 
