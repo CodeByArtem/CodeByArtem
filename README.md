@@ -4,15 +4,17 @@
 
 ### Привет, меня зовут Артём Журавлёв 👋 мне 34.
 
-
 ### Я Frontend Developer Full Stack
 
 🔭 Я занимаюсь разработкой интерфейсов и веб-приложений.
 
-🌱 В настоящее время изучаю и работаю с JavaScript, HTML, CSS, React и Node.js.
+🌱 В настоящее время изучаю и работаю с JavaScript, TypeScript, HTML, CSS, React и Node.js.
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
