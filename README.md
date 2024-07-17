@@ -9,25 +9,36 @@
 
 🌱 В настоящее время изучаю и работаю с JavaScript, TypeScript, HTML, CSS, React и Node.js.
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 1s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 1.2s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 1.4s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 1.6s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 1.8s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="display: inline-block; animation: fadeInLeft 2s ease;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" style="filter: grayscale(1); transition: filter 0.3s ease;">
     </a>
 </p>
+
+<script>
+    document.querySelectorAll('img').forEach(img => {
+        img.addEventListener('mouseover', () => {
+            img.style.filter = 'grayscale(0)';
+        });
+        img.addEventListener('mouseout', () => {
+            img.style.filter = 'grayscale(1)';
+        });
+    });
+</script>
 
 💼 Ищу интересные проекты и возможности для развития.
 
@@ -39,16 +50,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=ArtemGoiT&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ArtemGoiT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" />
-
-<style>
-    @keyframes fadeInLeft {
-        from {
-            opacity: 0;
-            transform: translateX(-10px);
-        }
-        to {
-            opacity: 1;
-            transform: translateX(0);
-        }
-    }
-</style>
