@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
-![Jk1](https://github.com/ArtemGoiT/ArtemGoiT/assets/150847319/37309e08-9d5e-4483-9534-5907a123f7ef)
+![Jk1](https://github.com/CodeByArtem/ArtemGoiT/assets/150847319/37309e08-9d5e-4483-9534-5907a123f7ef)
 
 
 ### Привет, меня зовут Артём Журавлёв 👋 мне 34.
