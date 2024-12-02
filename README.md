@@ -37,9 +37,9 @@
 ### Я люблю экспериментировать с новыми технологиями и всегда открыт для изучения чего-то нового в мире программирования.
 
 ### GitHub статистика:
-![Anurag's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=ArtemGoiT&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=CodeByArtem&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ArtemGoiT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?usernameCodeByArtem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" />
 
 
 
